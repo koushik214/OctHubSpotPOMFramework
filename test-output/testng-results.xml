@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="70927" started-at="2018-11-11T00:33:40Z" finished-at="2018-11-11T00:34:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="70927" started-at="2018-11-11T00:33:40Z" finished-at="2018-11-11T00:34:51Z">
+      <class name="com.qa.hubspot.tests.ContactsPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.hubspot.tests.ContactsPageTest@29774679]" name="setUp" is-config="true" duration-ms="37181" started-at="2018-11-11T00:33:40Z" finished-at="2018-11-11T00:34:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createContactsTest()[pri:0, instance:com.qa.hubspot.tests.ContactsPageTest@29774679]" name="createContactsTest" duration-ms="33728" started-at="2018-11-11T00:34:17Z" finished-at="2018-11-11T00:34:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hubspot.tests.ContactsPageTest@29774679]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-11-11T00:34:51Z" finished-at="2018-11-11T00:34:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.hubspot.tests.ContactsPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
